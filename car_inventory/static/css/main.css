@@ -1,0 +1,13 @@
+/* Shop Page CSS */
+
+
+.shop-header {
+    background-image: url("https://www.gtspiritmedia.com/gtspirit/uploads/2015/06/slider6.jpg");
+    background-size: cover;
+    height: 700px;
+    color: rgb(115, 27, 103); 
+}
+
+.shop-stats {
+    color: rgb(180, 43, 116); 
+}
